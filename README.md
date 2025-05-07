@@ -3,7 +3,7 @@
 This repository contains all the material related to the project for the courses of <i>Natural Interaction</i> and <i>Affective Computing</i>:
 <ul>
   <li>Project: <b>A Neural-Symbolic Agent for Pacman Maze</b>
-  <li>Original repository:[MatteoOnger/NIAC_Project](https://github.com/MatteoOnger/NIAC_Project)
+  <li>Original repository:[NIAC_Project](https://github.com/MatteoOnger/NIAC_Project)
   <li>Authors: <b>Stefano Capelli, Matteo Onger</b>
   <li>Instructor: <b>Prof. Boccignone Giuseppe</b>
 </ul>
