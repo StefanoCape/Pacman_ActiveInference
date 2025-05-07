@@ -1,0 +1,16 @@
+name: niac
+channels:
+  - conda-forge
+  - menpo
+  - defaults
+dependencies:
+  - python=3.10
+  - gym=0.26
+  - numpy
+  - opencv
+  - pygame
+  - pytorch
+  - tqdm
+  - pip
+  - pip:
+    - /content/scallopy-0.2.4-cp310-cp310-manylinux_2_27_x86_64.whl
